@@ -1,2 +1,2 @@
-Feature01 implementation is here, changed by myfeature branch.
+Feature01 implementation is here, changed by myfeature branch, changed by Feature04.
 myfeature implementation is here.
