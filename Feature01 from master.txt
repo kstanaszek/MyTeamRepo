@@ -1,2 +1,1 @@
 Feature01 implementation is here, changed by myfeature branch, bug fixed, changed by Feature03, changed by Feature04.myfeature implementation is here.
-Idea 2.
