@@ -1,4 +1,3 @@
 Feature04 implementation is here.
 Idea change
 idea2
-idea2 2nd commit.
